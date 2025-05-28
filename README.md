@@ -53,31 +53,34 @@ Senha: `cliente123`
 ## Estrutura do Projeto
 
 LojaExpoTech/
-│
-├── api/
-│   ├── auth.php
-│   ├── db.php
-│   ├── email.php
-│   └── add_to_cart.php
-│
-├── views/
-│   ├── login.php
-│   ├── registo.php
-│   ├── admin_produtos.php
-│   ├── criar_produto.php
-│   ├── editar_produto.php
-│   ├── eliminar_produto.php
-│   └── mostrar_imagem.php
-│
-├── img/
-│   └── logo.png
-│
-├── index.php
-├── carrinho.php
-├── atualizar_carrinho.php
-├── remover_item.php
-├── final.php
-└── logout.php
+
+── api/
+
+   ── auth.php
+   ── db.php
+   ── email.php
+   ── add_to_cart.php
+
+── views/
+
+   ── login.php
+   ── registo.php
+   ── admin_produtos.php
+   ── criar_produto.php
+   ── editar_produto.php
+   ── eliminar_produto.php
+   ── mostrar_imagem.php
+
+── img/
+
+   ── logo.png
+   
+── index.php
+── carrinho.php
+── atualizar_carrinho.php
+── remover_item.php
+── final.php
+── logout.php
 
 
 ## Observações
