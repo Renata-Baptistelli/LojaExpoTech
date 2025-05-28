@@ -4,9 +4,12 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 
 
 
+
  ### Página Inicial (Admin logado) 
  
 ![Página inicial da loja - admin logado](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/index-admin.png)
+
+
 
 
  ### Área de Administração (Admin logado)
@@ -17,9 +20,14 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 
 
 
+
+
  ### Página Inicial (Cliente logado)
 
 ![Página inicial da loja - cliente logado](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/index-cliente.png)
+
+
+
 
 
 ### Carrinho de Compras (Cliente logado)
@@ -27,6 +35,8 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 Carrinho com produtos adicionados, opção de alterar quantidades ou remover, e integração com pagamento via PayPal (modo sandbox).
 
 ![Carrinho do cliente com PayPal](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/carrinho-cliente.png)
+
+
 
 
 
