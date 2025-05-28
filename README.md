@@ -2,6 +2,8 @@
 
 Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalidades completas de e-commerce simples.
 
+
+
  ### Página Inicial (Admin logado) 
  
 ![Página inicial da loja - admin logado](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/index-admin.png)
