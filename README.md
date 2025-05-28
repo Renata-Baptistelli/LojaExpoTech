@@ -2,6 +2,34 @@
 
 Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalidades completas de e-commerce simples.
 
+ ### Página Inicial (Admin logado) 
+ 
+ ![Página inicial da loja - admin logado](img/index-admin.png)
+
+
+ ### Área de Administração (Admin logado)
+
+Área exclusiva para administradores, com listagem dos produtos, visualização de imagens e ações para inserir, editar ou remover os produtos.
+
+![Administração de produtos](img/admin-produtos.png)
+
+
+
+ ### Página Inicial (Cliente logado)
+
+![Página inicial da loja - cliente logado](img/index-cliente.png)
+
+
+### Carrinho de Compras (Cliente logado)
+
+Carrinho com produtos adicionados, opção de alterar quantidades ou remover, e integração com pagamento via PayPal (modo sandbox).
+
+![Carrinho do cliente com PayPal](img/carrinho-cliente.png)
+
+
+
+
+
 ## Funcionalidades
 
 - Registo e login de utilizadores (cliente e admin)
