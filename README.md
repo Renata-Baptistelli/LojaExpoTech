@@ -16,7 +16,7 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 
 Área exclusiva para administradores, com listagem dos produtos, visualização de imagens e ações para inserir, editar ou remover os produtos.
 
-![Página Administração de produtos](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/admin-produtos.png)
+![Página Administração de produtos](https://raw.githubusercontent.com/Renata-Baptistelli/LojaExpoTech/main/loja/img/admin-produto.png)
 
 
 
