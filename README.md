@@ -1,8 +1,8 @@
-# 🛒 Loja ExpoTech
+## Loja ExpoTech
 
 Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalidades completas de e-commerce simples.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Registo e login de utilizadores (cliente e admin)
 - Autenticação com sessões PHP
@@ -13,7 +13,7 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 - Carrinho de compras com atualização de quantidades
 - Pagamento via PayPal (modo sandbox)
 
-## 🛠 Tecnologias Usadas
+## Tecnologias Usadas
 
 - PHP (PDO + MySQLi)
 - MySQL
@@ -21,7 +21,7 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 - PHPMailer
 - PayPal JS SDK
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone este repositório
 2. Copie a pasta para o diretório `htdocs` do XAMPP
@@ -38,7 +38,7 @@ Loja ExpoTech é uma aplicação web desenvolvida em PHP e MySQL com funcionalid
 7. Acesso no navegador:
 http://localhost/loja/
 
-8. 👥 Credenciais de Teste
+8. Credenciais de Teste
 
 > Emails fictícios usados apenas como exemplo. Para testes reais com envio de mensagens, crie emails verdadeiros e atualize na base de dados.
 
@@ -50,7 +50,7 @@ Senha: `admin123`
 Username ou Email: `novoteste@gimail.com`  
 Senha: `cliente123`
 
-📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 LojaExpoTech/
 │
@@ -80,7 +80,7 @@ LojaExpoTech/
 └── logout.php
 
 
-⚠️ Observações
+## Observações
 O diretório PHPMailer e o ficheiro secrets.php foram excluídos do repositório por segurança.
 Os emails utilizados nas credenciais são fictícios e não existem.
 
