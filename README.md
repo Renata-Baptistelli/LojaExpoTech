@@ -76,10 +76,15 @@ LojaExpoTech/
    ── logo.png
    
 ── index.php
+
 ── carrinho.php
+
 ── atualizar_carrinho.php
+
 ── remover_item.php
+
 ── final.php
+
 ── logout.php
 
 
